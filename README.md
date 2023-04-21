@@ -1,5 +1,5 @@
 # chainlinkVRF2
-Chainlink's AnyAPI and VRF2 products as standalones. 
+Chainlink's VRF2 products as standalones. 
 
 This repo contains files used to successfully test Chainlink's VRF2 products as standalones.
 
